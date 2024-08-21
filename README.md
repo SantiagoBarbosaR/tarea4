@@ -1,5 +1,6 @@
 # tarea4
 ejercicio 1
+
 ![image](https://github.com/user-attachments/assets/6560d4a2-67fc-4d9e-a0de-7ee660f1cc3e)
 
 los resultados con dos diccinarios diferentes es
@@ -7,6 +8,7 @@ los resultados con dos diccinarios diferentes es
 ![image](https://github.com/user-attachments/assets/ec5e6e10-649a-48b1-b201-e43ee8a8b705)
 
 ejercicio2 
+
 ![image](https://github.com/user-attachments/assets/c7e0036f-fed6-4db6-bf86-369d4651d09b)
 
 comparacion de 2 diccionarios con diferentes diccinarios
